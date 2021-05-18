@@ -1,6 +1,6 @@
 # Nasıl Kurulur?
 
-Alttaki gördüğünüz kodda yazan fivemip bölümlerine Sunucu ipnizi ts3ip yazan yerlere kendi ts3 ipnizi yazmanız yeterli
+Alttaki kodda yazan fivemip bölümlerine Sunucu ipnizi ts3ip yazan yerlere kendi ts3 ipnizi yazmanız yeterli
 ```html
 <html>
 
